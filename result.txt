@@ -1,0 +1,1 @@
+1.0 pyramid = 1.4 bar1.0 giraffe = 40.0 hareConversion not possible2.0 kilobyte = 16384.0 bit
